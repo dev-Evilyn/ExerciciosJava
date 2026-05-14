@@ -15,4 +15,4 @@ Repositório criado para armazenar todos os exercícios e desafios práticos des
 
 1. **Clone o repositório:**
    ```bash
-   git clone [https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git](https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git)
+  git clone [https://github.com/dev-Evilyn/ExerciciosJava.git](https://github.com/dev-Evilyn/ExerciciosJava.git)
